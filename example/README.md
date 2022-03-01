@@ -1,17 +1,3 @@
-# Firebase Repository for Dart
-[![Pub Version](https://img.shields.io/pub/v/firedart_repository)](https://pub.dev/packages/firedart_repository)
-
-Use this database adapter for firebase to integrate with database_repository
-
-## Using Flutter?
-Use [firebase_database_repository](https://pub.dev/packages/firebase_database_repository) as it is optimized for usage with Flutter
-
-## How to install
-```bash
-dart pub add firedart_repository
-```
-
-## How to use
 ```dart
 void main() async {
     // You can find this in your firebase project settings
