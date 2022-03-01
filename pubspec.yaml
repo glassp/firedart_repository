@@ -1,6 +1,6 @@
 name: firedart_repository
 description: A DatabaseAdapter for the firebase database as used by the database_repository package
-version: 0.1.0
+version: 1.0.0
 repository: https://github.com/glassp/firedart_repository
 
 environment:
